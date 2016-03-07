@@ -1,0 +1,28 @@
+name: nigameash.net
+favicon: null
+layout_spectrum: 0.5441053465474397
+typography_spectrum: 0.32381635485216975
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.07268000161275268
+  lightness: 0.12829850940033793
+  saturation: 0.3712300125043839
+  rhythmicContrast: 0.2624655831605196
+purpose: []
